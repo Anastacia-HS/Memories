@@ -3,6 +3,14 @@
 }
 
 body {
-  background-image: url('plantbanner.jpg');
-  background-size: 1920px;
+  background-image: url('sky.jpg');
+  background-size: cover;
 }
+
+  .Memo {
+    font-size: 75pt;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
